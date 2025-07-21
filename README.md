@@ -19,7 +19,11 @@ Key metrics include:
 
 ## 🛠 Tools Used
 - Microsoft Power BI
+- DAX
+- Data Modeling
 - Excel (Data source)
 
+### 💡 Author
+**Karishma Bhavani Maddimsetti**
 
 
